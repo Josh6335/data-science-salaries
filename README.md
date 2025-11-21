@@ -52,10 +52,6 @@ This section covers:
 - Top 10 countries by mean salary with experience-level distribution  
 - Company-size respondent distribution  
 - Experience-level trends over years  
-- Bonus EDA:
-  - Top 10 highest-paying job titles  
-  - Salary comparison: remote vs non-remote  
-  - Salary correlation with company location  
 
 ---
 
